@@ -1,0 +1,2 @@
+link pRA DOWNLOAD DO GIT https://git-scm.com/downloads
+o GIT BASH É UM TERMINAL PARA OTIMIZAR O USO DO GIT
